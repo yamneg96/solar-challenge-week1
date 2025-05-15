@@ -26,7 +26,7 @@
    ```
 
 ## Project Structure
-
+This project aims to analyze solar data for multiple countries.
 - `venv/` - Python virtual environment
 - `data/` - Data files (ignored by git)
 - `notebooks/` - Jupyter notebooks
