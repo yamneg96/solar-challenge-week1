@@ -32,4 +32,21 @@ This project aims to analyze solar data for multiple countries.
 - `notebooks/` - Jupyter notebooks
 - `src/` - Source code
 - `tests/` - Test scripts
-- `scripts/` - Utility scripts 
+- `scripts/` - Utility scripts
+
+## Folder Structure
+
+```
+solar-challenge-week1/
+├── data/
+├── notebooks/
+├── src/
+├── tests/
+├── scripts/
+├── .github/
+│   └── workflows/
+├── .vscode/
+├── requirements.txt
+├── README.md
+└── .gitignore
+``` 
