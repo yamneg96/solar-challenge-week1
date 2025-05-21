@@ -15,3 +15,5 @@ __pycache__/
 
 # Environments
 .venv/
+.venv38/
+venv/

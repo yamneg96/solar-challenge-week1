@@ -45,3 +45,16 @@ solar-challenge-week1/
     ├── __init__.py
     └── README.md
 ```
+
+## 🌐 Streamlit Dashboard
+
+This project includes an interactive dashboard to explore GHI (Global Horizontal Irradiance) metrics across Benin, Sierra Leone, and Togo.
+
+### 🔧 How to Run the Dashboard Locally
+
+1. Activate your virtual environment.
+2. Run the Streamlit app:
+
+```bash
+streamlit run app/main.py
+```
