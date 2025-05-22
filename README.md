@@ -1,4 +1,4 @@
-# Solar Data Challenge - Week 0
+# Solar Data Challenge - Week 1
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ Analysis of solar farm data from Benin, Sierra Leone, and Togo to identify high-
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Lemiti/solar-challenge-week1.git
+   git clone https://github.com/yamneg96/solar-challenge-week1.git
    cd solar-challenge-week1
    ```
 2. **Set up a virtual environment**:
